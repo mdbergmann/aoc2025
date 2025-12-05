@@ -1,0 +1,10 @@
+name = "aoc2025"
+uuid = "08ae053a-7f2a-4523-a241-1fc4800b5700"
+version = "0.1.0"
+authors = ["Manfred Bergmann <mb@software-by-mabe.com>"]
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+Test = "1.11.0"
